@@ -34,6 +34,11 @@ Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technic
 
 TODO - History notes:  
 
+1960 –to- 1989: IIT-JEE examination used to have three question papers - one each in Physics, Chemistry, and Mathematics (PCM) of 3 hours each. The pattern of examination was subjective only.   
+1990 -to- 2003: IIT-JEE had two stages JEE Screening and JEE Mains. JEE Screening was objective (MCQ) paper, a pre-requisite to appear in JEE Mains which was subjective papers as before.   
+
+
+
 JEE Screening and Mains, subjective paper   
 AIEEE   
 JoSAA   
@@ -41,3 +46,15 @@ Rounds in JoSAA counselling
 Vacant Seats   
 Affirmative Action    
 Inclusion and Diversity    
+
+
+TODO - Stats
+
+* The total enrolment in higher education was around 38.5 million in 2019-2020, the Gross Enrolment Ratio (GER) for the population in the age group 18-23 years being 27.1 (male: 26.9; female: 27.3). About 79.5% of the students were enrolled in undergraduate-level programmes.     - Source: UGC    
+* A Ph.D. programme in Indian universities and institutions requires a Master’s degree or a 4-year Bachelor’s degree.   
+* 
+
+
+Links to some documents in public domain    
+
+[http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
