@@ -28,7 +28,7 @@ Business Rule of JEE Advanced: [https://josaa.nic.in/document/josaa-2022-busines
 
 **Vacant Seats**: The concerns were raised for seats lying vacant at IITs and for filling the provisioned seats as per matrix announced, more number of rounds were added to seat allocation exercise.   
 
-**Affirmative Action**: As per directives from the Government of India, candidates from SC/ST/PWD/OBC/EWS category are included for affirmative action. EWS category was added to JoSAA counselling in 2019. Percentage of category wise seat for Affirmative Action (as of 2021-22): 7.5% ST, 15% SC, 5% PWD, 27% OBC, 10% EWS.    
+**Affirmative Action**: As per directives from the Government of India, candidates from SC/ST/PWD/OBC/EWS category are included for affirmative action. EWS category was added to JoSAA counselling in 2019. Percentage of category wise seat for Affirmative Action (as of 2021-22): 7.5% ST, 15% SC, 27% OBC. Also, 5% PWD of total seats and 10% EWS out of Open candidates.    
 
 **Cut-off**: JEE Advanced cut-off in 2022:   
 
