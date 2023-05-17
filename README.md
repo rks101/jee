@@ -29,6 +29,8 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/document/josaa-2022-business-
 [Seat Matrix information](https://josaa.nic.in/seat-matrix/)   
 
 [Previous Year's Opening Rank and Closing Rank (OR-CR)](https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx) for academic programs at Participating Institutes.    
+Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
+
 ----
 
 ## Affirmative Action    
@@ -49,9 +51,9 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/document/josaa-2022-business-
 
 ----
 
-**Cut-off**: JEE Advanced cut-off in 2022:   
+## Cut-off marks   
 
-Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
+**Cut-off**: [JEE Advanced cut-off in 2022](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced):   
 
 ---- 
 
