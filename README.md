@@ -90,7 +90,10 @@ Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technic
 * The total number of Universities / University like institutions registered is 1,113, Colleges 43,796 and Standalone Institutions 11,296. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
 * The total number of faculty/teachers are 15,51,070 of which about 57.1% are male and 42.9% are female. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)    
 
-----
+
+* In 2002, the total number of seats at 9 IITs were **4369** including IIT ISM Dhanbad and IIT BHU Varanasi. In 2022, the total number of seats at 23 IITs were **16598**.    
+
+---- 
 
 ## Links to some documents/pages in public domain    
 
