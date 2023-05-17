@@ -3,9 +3,9 @@ Some notes related to Joint Entrance Examinations (JEE) for engineering at under
 
 For admissions into government funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
 
-a) For admissions into NITs/IIITs/Other-GFTIs (NIT+ System) for a bachelor degree or a bachelor-master dual degree programs - National Testing Agency (NTA) conducts [JEE Mains exmination](https://jeemain.nta.nic.in/)   
+a) For admissions into NITs/IIITs/Other-GFTIs (NIT+ System) for a bachelor degree or a bachelor-master dual degree programs - CSAB administers JEE Mains examination and National Testing Agency (NTA) conducts [JEE Mains exmination](https://jeemain.nta.nic.in/)   
 
-b) For admissions into IITs for a bachelor degree or an integrated/dual degree programs - JAB administers JEE-Advanced examinations. One of the seven jonal IITs is entrusted as organising institute every year to conduct JEE Advanced examinations.   
+b) For admissions into IITs for a bachelor degree or an integrated/dual degree programs - JAB administers [JEE-Advanced examinations](https://jeeadv.ac.in/). One of the seven jonal IITs is entrusted as organising institute every year to conduct JEE Advanced examinations.   
 
 ----
 
@@ -16,8 +16,8 @@ b) For admissions into IITs for a bachelor degree or an integrated/dual degree p
 Admission to all the academic programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
 
 **JAB** - [JEE Apex Board](https://www.education.gov.in/sites/upload_files/mhrd/files/jee_jab.pdf)    
-**CSAB** - [Central Seat Allocation Board](https://csab.nic.in/) [CSAB-2023 board re-constitution](https://www.education.gov.in/sites/upload_files/mhrd/files/CSAB24.pdf)    
-**JoSAA** - [Joint Seat Allocation Authority]((https://josaa.nic.in/)    
+**CSAB** - [Central Seat Allocation Board](https://csab.nic.in/) and [CSAB-2023 board re-constitution](https://www.education.gov.in/sites/upload_files/mhrd/files/CSAB24.pdf)    
+**JoSAA** - [Joint Seat Allocation Authority](https://josaa.nic.in/)    
 
 Information Bulletin (IB) of JEE Mains: [https://jeemain.nta.nic.in/information-bulletin/](https://jeemain.nta.nic.in/information-bulletin/)   
 Information Bulletin (IB) of JEE Advanced: [https://jeeadv.ac.in/](https://jeeadv.ac.in/)    
