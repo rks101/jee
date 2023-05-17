@@ -13,47 +13,53 @@ b) For admissions into IITs for a bachelor degree or an integrated/dual degree p
 
 [Joint Seat Allocation Authority (JoSAA)](https://josaa.nic.in/) was set up by the Ministry of Education (erstwhile Ministry of Human Resources Development (MHRD)) to manage and regulate the joint seat allocation for admissions to more than 110 institutes. This includes 23 IITs, 31 NITs, IIEST Shibpur, 26 IIITs and 33+ Other-Government Funded Technical Institutes (Other-GFTIs). Institutes other than IITs are also referred as NIT+ system esp in JoSAA counselling. 
 
-Admission to all the academic programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
+Admissions to all the academic programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
+
+### Associated Bodies   
 
 **JAB** - [JEE Apex Board](https://www.education.gov.in/sites/upload_files/mhrd/files/jee_jab.pdf)    
 **CSAB** - [Central Seat Allocation Board](https://csab.nic.in/) and [CSAB-2023 board re-constitution](https://www.education.gov.in/sites/upload_files/mhrd/files/CSAB24.pdf)    
 **JoSAA** - [Joint Seat Allocation Authority](https://josaa.nic.in/)    
 
-Information Bulletin (IB) of JEE Mains: [https://jeemain.nta.nic.in/information-bulletin/](https://jeemain.nta.nic.in/information-bulletin/)   
-Information Bulletin (IB) of JEE Advanced: [https://jeeadv.ac.in/](https://jeeadv.ac.in/)    
+### Important links to documents 
+
+Information Brochure (IB) of JEE Mains: [https://jeemain.nta.nic.in/information-bulletin/](https://jeemain.nta.nic.in/information-bulletin/)   
+
+Information Brochure (IB) of JEE Advanced: [https://jeeadv.ac.in/](https://jeeadv.ac.in/)    
 
 Business Rule (BR) of JoSAA: [https://josaa.nic.in/document/josaa-2022-business-rule/](https://josaa.nic.in/document/josaa-2022-business-rule/)    
 
-[Lits of Participating Institutes](https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx)    
+[List of Participating Institutes in JoSAA](https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx)    
 
 [Seat Matrix information](https://josaa.nic.in/seat-matrix/)   
 
-[Previous Year's Opening Rank and Closing Rank (OR-CR)](https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx) for academic programs at Participating Institutes.    
+[Previous Year's Opening Ranks and Closing Ranks (OR-CR)](https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx) for academic programs at Participating Institutes.    
+
 Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
 
 ----
 
 ## Affirmative Action    
 
-**Affirmative Action**: As per directives from the Government of India, candidates from SC/ST/PWD/OBC/EWS category are included for affirmative action. EWS category was added to JoSAA counselling in 2019. Percentage of category wise seat for Affirmative Action (as of 2021-22): 7.5% ST, 15% SC, 27% OBC. Also, 5% PWD of total seats and 10% EWS out of Open candidates.    
+As per directives from the Government of India, candidates from SC/ST/PWD/OBC/EWS category are included for affirmative action. EWS category was added to JoSAA counselling in 2019. Percentage of category wise seat for Affirmative Action (as of 2021-22): 7.5% ST, 15% SC, 27% OBC. Also, 5% PWD of total seats and 10% EWS out of Open candidates.    
 
 ----
 
 ## Gender Advancement   
 
-**Gender Advancement**: From 2018, IITs (and other CFTIs) have made collective efforts to include greater number of female candidates at the institutes for undegraduate programs. It is envisaged that IITs should admit 20% female candidates by 2020 for their undergraduate programs, thereby creating a larger pool of women in STEM education. To accommodate these numbers, over-and-above supernumerary seats were created. These seats should not be considered towards Affirmative Action, rather it's an over-and-above inclusion and diversity at institutes. Today, several IITs have a much larger pool of female population on the campus as compared to 2017 or before. Outcomes of the gender advancements will be visible in the society and industries from 2022 and years to come.    
+From 2018, IITs (and other CFTIs) have made collective efforts to include greater number of female candidates at the institutes for undegraduate programs. It is envisaged that IITs should admit 20% female candidates by 2020 for their undergraduate programs, thereby creating a larger pool of women in STEM education. To accommodate these numbers, over-and-above supernumerary seats were created. These seats should not be considered towards Affirmative Action, rather it's an over-and-above inclusion and diversity at institutes. Today, several IITs have a much larger pool of female population on the campus as compared to 2017 or before. Outcomes of the gender advancements will be visible in the society and industries from 2022 and years to come.    
 
 ----
 
 ## Vacant Seats   
 
-**Vacant Seats**: The concerns were raised for seats lying vacant at IITs and for filling the provisioned seats as per matrix announced, more number of rounds were added to seat allocation exercise.   
+The concerns were raised for seats lying vacant at IITs and for filling the maximum number of seats as per seats matrix announced, and more number of rounds were added to joint seat allocation exercise.   
 
 ----
 
 ## Cut-off marks   
 
-**Cut-off**: [JEE Advanced cut-off in 2022](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced):   
+[JEE Advanced cut-off in 2022](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced):   
 
 ---- 
 
@@ -91,7 +97,7 @@ Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technic
 * The total number of faculty/teachers are 15,51,070 of which about 57.1% are male and 42.9% are female. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)    
 
 
-* In 2002, the total number of seats at 9 IITs were **4369** including IIT ISM Dhanbad and IIT BHU Varanasi. In 2022, the total number of seats at 23 IITs were **16598**.    
+* In 2002, the total number of seats at 7 IITs were **3357** (with IIT Roorkee included from 2001). In 2022, the total number of seats at 23 IITs were **16598**.    
 
 ---- 
 
