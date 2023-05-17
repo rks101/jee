@@ -65,6 +65,10 @@ Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technic
 
 2006 -to- 2012: IIT-JEE exam was again a single stage but objective exam of 2 papers (back-to-back on the same day) each having PCM questions over the duration of 3 hours each.   
 
+2012: JEE Advanced registrations crossed 5 lac mark, in 2010 and 2011, this number was above 4 lac.    
+
+2013: Only a certain threshold number of candidates from JEE Mains are allowed to register for JEE Advanced examination.    
+
 2013 -to- 2022: IIT-JEE exam is again a two-stage exam - JEE Mains and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2023) is an objective exam (MCQ) and a pre-requisite to appear in JEE Advanced exam. JEE Advanced exam has a complex multiple-pattern questions objective questions, interger/real number answer recently added, 18 questions each in PCM are multiple-correct-answers-type questions. JEE Advanced is conducted on a single day in 2 papers back-to-back.   
 
 2015: JoSAA come into existence.   
