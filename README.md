@@ -105,6 +105,8 @@ The concerns were raised for seats lying vacant at IITs and for filling the maxi
 
 [Kakodkar committeee report 2011](https://www.iiti.ac.in/administration_docs/Kakodkar%20Committee%20Report.pdf)   
 
+[Ramasamy Report on alternate exams 2010](docs/Ramasami-report-on-enggexam2010.pdf)    
+
 [JEE Advanced exam page on wikipedia](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
 
 [http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
