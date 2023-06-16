@@ -107,6 +107,9 @@ The concerns were raised for seats lying vacant at IITs and for filling the maxi
 
 [Ramasamy Report on alternate exams 2010](docs/Ramasami-report-on-enggexam2010.pdf)    
 
+[] 
+[Prof Milind Sohoni on selection procees, students, faculty and IITs](https://indianexpress.com/article/opinion/columns/iit-madras-director-is-mistaken-its-not-the-students-fault-8662961/)    
+
 [JEE Advanced exam page on wikipedia](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
 
 [http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
