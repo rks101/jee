@@ -60,7 +60,9 @@ To accommodate these numbers, over-and-above supernumerary seats were created. T
 
 ## Vacant Seats   
 
-The concerns were raised for seats lying vacant at IITs and for filling the maximum number of seats as per seats matrix announced. Towards this, more number of rounds were added to joint seat allocation exercise - increased to 4 and then 6 from earlier 2 rounds.    
+The concerns were raised for seats lying vacant at IITs and for filling the maximum number of seats as per seats matrix announced. 
+
+Towards this, more number of rounds were added to joint seat allocation exercise - increased to 4 and then 6 from earlier 2 rounds. However, decent fresh seat allocations in the last round and candidates not joining the institute, does not leave options with IITs to fill those vacant seats.   
 
 ----
 
