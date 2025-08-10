@@ -76,7 +76,7 @@ The concerns were raised for seats lying vacant at IITs and for filling the maxi
 
 **1990 -to- 2003**: IIT-JEE had two stages called - JEE Screening and JEE Mains. JEE Screening exam was an objective (MCQ) paper, a pre-requisite to appear in JEE Mains exam which was subjective papers as earlier. So far, from 1960s to 2003, it was a pen-paper based examination.   
 
-- - - - IIT-JEE adopted OMR sheet for answers still continuing with printed papers.    
+**0000**: IIT-JEE adopted OMR sheet for answers still continuing with printed papers.    
 
 **2006 -to- 2012**: IIT-JEE exam was again a single stage but objective exam of 2 papers (back-to-back on the same day) each having PCM questions over the duration of 3 hours each.   
 
@@ -92,7 +92,7 @@ The concerns were raised for seats lying vacant at IITs and for filling the maxi
 
 **2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT.    
 
-**2023**: Top-20 percentile criteria is added for qualification into IITs. Candidate should have at least 75% in class XII (for five subjects including Physics, Chemistry, Maths and one language) or be in top-20 percentile of the respective board of class XII examination. This top-20 percentile cut-off is category wise (Open, EWS, OBC-NCL, SC, ST, PWD). If board specific top-20 percentile cut-off is not available, CBSE board cut-offs are to be referenced with.    
+**2023**: Top-20 percentile criteria is added for qualification into IITs. In class XII, candidate should have at least 75% for Open, EWS, OBC-NCL category and 65% for SC, ST category (for five subjects including Physics, Chemistry, Maths and one language) or be in the top-20 percentile of the respective board of class XII examination. This top-20 percentile cut-off is category wise (Open, EWS, OBC-NCL, SC, ST, PWD). If board specific top-20 percentile cut-off is not available, CBSE board cut-offs are to be referenced with.    
 
 **2024** JoSAA conducts counselling in 5 rounds in 2024.    
 
