@@ -1,17 +1,17 @@
 # JEE
-Some notes related to Joint Entrance Examinations (JEE) for engineering at undergraduate level in India. Page developed during 2021-23.   
+These notes are compiled for Joint Entrance Examinations (JEE) for engineering at undergraduate level in India. Page was developed during 2021-23.   
 
 For admissions into government funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
 
-a) For admissions into NITs/IIITs/Other-GFTIs (NIT+ System) for a bachelor degree or a bachelor-master dual degree programs - CSAB administers JEE Mains examination and National Testing Agency (NTA) conducts [JEE Mains exmination](https://jeemain.nta.nic.in/)   
+a) For admissions into NITs/IIITs/Other-GFTIs (called NIT+ System) for a bachelor degree or a bachelor-master dual degree programs - CSAB administers JEE Mains examination and National Testing Agency (NTA) conducts [JEE Mains exmination](https://jeemain.nta.nic.in/)   
 
-b) For admissions into IITs for a bachelor degree or an integrated/dual degree programs - JAB administers [JEE-Advanced examinations](https://jeeadv.ac.in/). One of the seven jonal IITs is entrusted as organising institute every year to conduct JEE Advanced examinations.   
+b) For admissions into IITs for a bachelor degree or an integrated/dual degree programs - JAB administers [JEE-Advanced examinations](https://jeeadv.ac.in/). One of the seven zonal IITs is entrusted as organising institute every year to conduct prestigious JEE Advanced examinations.   
 
 ----
 
 ## JoSAA
 
-[Joint Seat Allocation Authority (JoSAA)](https://josaa.nic.in/) was set up by the Ministry of Education (erstwhile Ministry of Human Resources Development (MHRD)) to manage and regulate the joint seat allocation for admissions to more than 110 institutes. This includes 23 IITs, 31 NITs, IIEST Shibpur, 26 IIITs and 33+ Other-Government Funded Technical Institutes (Other-GFTIs). Institutes other than IITs are also referred as NIT+ system esp in JoSAA counselling. 
+[Joint Seat Allocation Authority (JoSAA)](https://josaa.nic.in/) was set up in 2015 by the Ministry of Education (erstwhile Ministry of Human Resources Development (MHRD)) to manage and regulate the joint seat allocation for admissions to more than 110 institutes. JoSAA includes 23 IITs, 31 NITs, IIEST Shibpur, 26 IIITs and 35+ Other-Government Funded Technical Institutes (Other-GFTIs). Institutes other than IITs are also referred as NIT+ system esp in JoSAA counselling.    
 
 Admissions to all the academic programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
 
@@ -20,6 +20,7 @@ Admissions to all the academic programs offered by these institutes are made thr
 **JAB** - [JEE Apex Board](https://www.education.gov.in/sites/upload_files/mhrd/files/jee_jab.pdf)    
 **CSAB** - [Central Seat Allocation Board](https://csab.nic.in/) and [CSAB-2023 board re-constitution](https://www.education.gov.in/sites/upload_files/mhrd/files/CSAB24.pdf)    
 **JoSAA** - [Joint Seat Allocation Authority](https://josaa.nic.in/)    
+**JIC** - Joint Implementation Committee (JIC) members are the Chairpersons and Vice-chairpersons of JEE Advanced in the IITs to implementing the JEE Advanced.    
 
 ### Important links to documents 
 
@@ -27,7 +28,7 @@ Information Brochure (IB) of JEE Mains: [https://jeemain.nta.nic.in/information-
 
 Information Brochure (IB) of JEE Advanced: [https://jeeadv.ac.in/](https://jeeadv.ac.in/)    
 
-Business Rule (BR) of JoSAA: [https://josaa.nic.in/document/josaa-2022-business-rule/](https://josaa.nic.in/document/josaa-2022-business-rule/)    
+Business Rule (BR) of JoSAA: [https://josaa.nic.in/information-bulletin/](https://josaa.nic.in/information-bulletin/)    
 
 [List of Participating Institutes in JoSAA](https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx)    
 
@@ -36,6 +37,8 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/document/josaa-2022-business-
 [Previous Year's Opening Ranks and Closing Ranks (OR-CR)](https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx) for academic programs at Participating Institutes.    
 
 Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
+
+Role of TCS: JEE Advanced has been a Computer-Based Test (CBT) since 2018, and has been organized with TCS-ion as the examination partner.    
 
 ----
 
