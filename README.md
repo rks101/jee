@@ -118,7 +118,7 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 ---- 
 
-## Links to some documents/pages in public domain    
+## Links to documents in public domain    
 
 [Kakodkar committeee report 2011](https://www.iiti.ac.in/administration_docs/Kakodkar%20Committee%20Report.pdf)   
 
