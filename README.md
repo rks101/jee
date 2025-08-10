@@ -94,11 +94,13 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 **2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT.    
 
+**2020-2021** During Covid-19 years, JEE Advanced is conducted late in the year and admissions to IITs are delayed than July-August.     
+
 **2023**: Top-20 percentile criteria is added for qualification into IITs. In class XII, candidate should have at least 75% for Open, EWS, OBC-NCL category and 65% for SC, ST category (for five subjects including Physics, Chemistry, Maths and one language) or be in the top-20 percentile of the respective board of class XII examination. This top-20 percentile cut-off is category wise (Open, EWS, OBC-NCL, SC, ST, PWD). If board specific top-20 percentile cut-off is not available, CBSE board cut-offs are to be referenced with.    
 
 **2024** JoSAA conducts counselling in 5 rounds in 2024.    
 
-**2025** Again, in 2025, JoSAA counselling is in 6 rounds. Somehow, multiple test centers for JEE Advanced report multiple issues, including delayed start than 9:00 am, no air conditioning in hot summer (mid May).    
+**2025** Again, in 2025, JoSAA counselling is in 6 rounds. Somehow, multiple test centers for JEE Advanced report multiple issues, including delayed start than 9:00 am, no air conditioning in hot summer (mid May), and test center issues.    
 
 ---- 
 
