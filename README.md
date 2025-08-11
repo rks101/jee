@@ -88,11 +88,13 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 **2013 -to- 2025**: IIT-JEE exam remains a two-stage exam - JEE Mains and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2025) is an objective exam (MCQ) and a pre-requisite to appear in JEE Advanced exam. JEE Advanced exam has a complex multiple-pattern questions (well suited for CBT), objective questions, interger/real number answer type questions recently added, 18 questions each in PCM are multiple-correct-answers-type questions. JEE Advanced is conducted on a single day in 2 papers back-to-back, 9 am to 12 pm and 2 pm to 5 pm.    
 
-**2015**: JoSAA come into existence for joint counselling of IITs and NIT+ system.    
+**2015**: JoSAA come into existence for joint counselling of IITs and NIT+ system. Total seats on offer in JEE Advanced cross 10,000.     
 
 **2017**: Weightage of class 12th marks in calculating ranks of IIT JEE Mains removed.    
 
-**2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT.    
+**2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT. IITs are tasked to induct 20% female students in three years, e.g. 14% in 2018, 17% in 2019 and 20% in 2020.    
+
+**2019**: GEN-EWS category is introduced to have 10% seats out of Open category. IITs are tasked to implement inclusion of EWS in two phases 5% EWS in 2019, 10% in 2020. Total seats on offer cross 16,000 in 2020.    
 
 **2020-2021** During Covid-19 years, JEE Advanced is conducted late in the year and admissions to IITs are delayed than July-August. From 2020, JoSAA counselling is being conducted online, reporting is online and candidates need not travel in-person to the nearest IITs as earlier. Only PwD candidates need to report once to nearest IITs for disability ascertained as temporary in nature. Thus, all 23 IITs became reporting centers (RC).    
 
@@ -100,7 +102,7 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 **2024** JoSAA conducts counselling in 5 rounds in 2024.    
 
-**2025** Again, in 2025, JoSAA conducts counselling in 6 rounds. Somehow, multiple test centers for JEE Advanced report multiple issues, including delayed start than 9:00 am, no coolers/air conditioning in hot summer (mid May), and test center facility issues.    
+**2025** Again, in 2025, JoSAA conducts counselling in 6 rounds.     
 
 ---- 
 
