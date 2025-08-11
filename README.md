@@ -72,19 +72,19 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 ---- 
 
-## IIT-JEE pattern    
+## IIT-JEE timeline    
 
-**1960 –to- 1989**: IIT-JEE examination used to have three question papers - one each in Physics, Chemistry, and Mathematics (PCM) of 3 hours each. The pattern of examination was subjective only conducted on three separate days.   
+**1960 –to- 1989**: IIT-JEE examination used to have three question papers - one each in Physics, Chemistry, and Mathematics (PCM) of 3 hours each. The pattern of examination was subjective only conducted on three separate days. Initially it was known as Common Entrance Exam (CEE).    
 
-**1990 -to- 2003**: IIT-JEE had two stages called - JEE Screening and JEE Mains. JEE Screening exam was an objective (MCQ) paper, a pre-requisite to appear in JEE Mains exam which was subjective papers as earlier. So far, from 1960s to 2003, it was a pen-paper based examination.   
+**1990 -to- 2003**: IIT-JEE had two stages called - JEE Screening and JEE Mains. JEE Screening exam was an objective (MCQ) paper, a pre-requisite to appear in JEE Mains exam which was subjective papers as earlier. So far, from 1960s to 2003, it was a pen-paper based examination to enter into IITs.   
 
-**0000**: IIT-JEE adopted OMR sheet for answers still continuing with printed papers.    
+**200x**: IIT-JEE adopted OMR sheet for answers still continuing with printed papers.    
 
-**2006 -to- 2012**: IIT-JEE exam was again a single stage but objective exam of 2 papers (back-to-back on the same day) each having PCM questions over the duration of 3 hours each.   
+**2006 -to- 2012**: IIT-JEE exam was again a single stage but objective exam of 2 papers (back-to-back on the same day) each having PCM questions over the duration of 3 hours each. Candidate should have 60% agreegate in the qualifying exam class XII, and for SC/ST/PwD it was 55%.   
 
 **2012**: JEE Advanced registrations crossed 5 lac mark, in 2010 and 2011, this number was above 4 lac.    
 
-**2013**: IIT-JEE again became two stage examination - JEE Mains (for NIT+ system and qualifier for JEE Advanced) and JEE Advanced (for admission into IITs only). Only a certain threshold number of candidates from JEE Mains are allowed to register for JEE Advanced examination.    
+**2013**: IIT-JEE again became two stage examination - JEE Mains (for NIT+ system and qualifier for JEE Advanced) and JEE Advanced (for admission into IITs only). Only a certain threshold number of candidates from JEE Mains are allowed to register for JEE Advanced examination. A national level engineering entrance exam AIEEE started in 2002 for NITs and other govt engineering colleges, is now came to known as JEE Mains.    
 
 **2013 -to- 2025**: IIT-JEE exam remains a two-stage exam - JEE Mains and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2025) is an objective exam (MCQ) and a pre-requisite to appear in JEE Advanced exam. JEE Advanced exam has a complex multiple-pattern questions (well suited for CBT), objective questions, interger/real number answer type questions recently added, 18 questions each in PCM are multiple-correct-answers-type questions. JEE Advanced is conducted on a single day in 2 papers back-to-back, 9 am to 12 pm and 2 pm to 5 pm.    
 
@@ -94,13 +94,13 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 **2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT.    
 
-**2020-2021** During Covid-19 years, JEE Advanced is conducted late in the year and admissions to IITs are delayed than July-August.     
+**2020-2021** During Covid-19 years, JEE Advanced is conducted late in the year and admissions to IITs are delayed than July-August. From 2020, JoSAA counselling is being conducted online, reporting is online and candidates need not travel in-person to the nearest IITs as earlier. Only PwD candidates need to report once to nearest IITs for disability ascertained as temporary in nature. Thus, all 23 IITs became reporting centers (RC).    
 
 **2023**: Top-20 percentile criteria is added for qualification into IITs. In class XII, candidate should have at least 75% for Open, EWS, OBC-NCL category and 65% for SC, ST category (for five subjects including Physics, Chemistry, Maths and one language) or be in the top-20 percentile of the respective board of class XII examination. This top-20 percentile cut-off is category wise (Open, EWS, OBC-NCL, SC, ST, PWD). If board specific top-20 percentile cut-off is not available, CBSE board cut-offs are to be referenced with.    
 
 **2024** JoSAA conducts counselling in 5 rounds in 2024.    
 
-**2025** Again, in 2025, JoSAA counselling is in 6 rounds. Somehow, multiple test centers for JEE Advanced report multiple issues, including delayed start than 9:00 am, no air conditioning in hot summer (mid May), and test center issues.    
+**2025** Again, in 2025, JoSAA conducts counselling in 6 rounds. Somehow, multiple test centers for JEE Advanced report multiple issues, including delayed start than 9:00 am, no coolers/air conditioning in hot summer (mid May), and test center facility issues.    
 
 ---- 
 
