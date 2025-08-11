@@ -1,5 +1,5 @@
 # JEE
-These notes are compiled for Joint Entrance Examinations (JEE) for engineering at undergraduate level in India. Page was developed during 2021-23.   
+These notes are compiled for Joint Entrance Examinations (JEE) for engineering at undergraduate level in India. Page was developed during 2021-23. Please connect to improve the page and general information on this page. For prevailing rules, trust only the Information Brochure and Business Rules.     
 
 For admissions into government funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
 
@@ -15,14 +15,18 @@ For admissions into government funded engineering institutions/universities, Joi
 
 Admissions to all the academic programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
 
-### Associated Bodies   
+**Associated Bodies**   
 
 **JAB** - [JEE Apex Board](https://www.education.gov.in/sites/upload_files/mhrd/files/jee_jab.pdf)    
 **CSAB** - [Central Seat Allocation Board](https://csab.nic.in/) and [CSAB-2023 board re-constitution](https://www.education.gov.in/sites/upload_files/mhrd/files/CSAB24.pdf)    
 **JoSAA** - [Joint Seat Allocation Authority](https://josaa.nic.in/)    
 **JIC** - Joint Implementation Committee (JIC) members are the Chairpersons and Vice-chairpersons of JEE Advanced in the IITs to implementing the JEE Advanced.    
 
-### Important links to documents 
+Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
+
+Role of TCS: JEE Advanced has been a Computer-Based Test (CBT) since 2018, and has been organized with TCS-ion as the examination implementation partner.    
+
+**Important links**    
 
 Information Brochure (IB) of JEE Mains: [https://jeemain.nta.nic.in/information-bulletin/](https://jeemain.nta.nic.in/information-bulletin/)   
 
@@ -36,17 +40,16 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/information-bulletin/](https:
 
 [Previous Year's Opening Ranks and Closing Ranks (OR-CR)](https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx) for academic programs at Participating Institutes.    
 
-Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
+[Top-20 percentile cut-off from various boards](https://josaa.nic.in/top-20-percentile/) suggests fierce competition in certain class XII state boards.     
 
-Role of TCS: JEE Advanced has been a Computer-Based Test (CBT) since 2018, and has been organized with TCS-ion as the examination partner.    
 
 ----
 
 ## Affirmative Action    
 
-As per directives from the Government of India, candidates from SC/ST/PWD/OBC-NCL/GEN-EWS category are included for affirmative action. EWS category was added to JoSAA counselling in 2019.   
+As per directives from the Government of India, candidates belonging to SC/ST/PWD/OBC-NCL/GEN-EWS category are included for affirmative action. OBC-NCL category was added in 1990. GEN-EWS category was added to JoSAA counselling in 2019.   
 
-Percentage of category wise seats for Affirmative Action (since 2019): 7.5% ST, 15% SC, 27% OBC-NCL, 10% EWS (out of Open candidates). Also, 5% PWD of total seats.    
+Percentage of category wise seats for Affirmative Action (since 2019): 7.5% ST, 15% SC, 27% OBC-NCL, 10% GEN-EWS (out of Open candidates). Also, 5% PWD of total seats (verticle - across disciplines at an institute).    
 
 ----
 
@@ -54,7 +57,7 @@ Percentage of category wise seats for Affirmative Action (since 2019): 7.5% ST, 
 
 From 2018, IITs (and other CFTIs) have made collective efforts to include greater number of female candidates at the institutes for undegraduate programs. It is envisaged that IITs should admit 20% female candidates by 2020 for their undergraduate programs, thereby creating a larger pool of women in STEM education.     
 
-To accommodate these numbers, over-and-above supernumerary seats were created. These seats should not be considered towards Affirmative Action, rather it's an over-and-above inclusion and diversity at institutes. Today, several IITs have a much larger pool of female population on the campus as compared to 2017 or before. Outcomes of the gender advancements will be visible in the society and industries from 2022 and years to come.    
+To accommodate these numbers, over-and-above supernumerary seats were created. These seats should not be considered towards Affirmative Action, rather it's an over-and-above inclusion and diversity at institutes. Today, several IITs have a much larger pool of female population on the campus as compared to 2017 or before. Outcomes of the gender advancements will be visible in the society and industries from 2022 and later years to come.    
 
 ----
 
@@ -68,9 +71,15 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 ## Cut-off marks   
 
-[JEE Advanced cut-off in 2022](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced):   
+[JEE Advanced cut-off in 2022](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
 
 ---- 
+
+## Preparatory Course     
+
+JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially relaxing subject-wise and overall cut-off of marks obtained in JEE Advanced. Preparatory students spend one year at host IIT to make up Physics, Chemistry, Mathematics, English courses. Upon successful completion of preparatory course, these students join the allotted program at the respective IIT. The precise criteria or algorithm is not known on how preparatory seats are allotted. However, these preparatory seats appear from affirmative action category (SC/ST/Any PwD).     
+
+----
 
 ## IIT-JEE timeline    
 
@@ -92,7 +101,7 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 **2017**: Weightage of class 12th marks in calculating ranks of IIT JEE Mains removed.    
 
-**2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT. IITs are tasked to induct 20% female students in three years, e.g. 14% in 2018, 17% in 2019 and 20% in 2020.    
+**2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT. The compelling reasons behind conducting CBT are: to reduce the prospectus of paper leak and printing errors, to make examination evaluation easier (against an answer key) and swift as the number of candidates have grown, to make overall examination logistics simpler for organizing IITs (since this may not be their core business to conduct examinations at such scale). IITs are tasked to induct 20% female students in three years, e.g. 14% in 2018, 17% in 2019 and 20% in 2020.    
 
 **2019**: GEN-EWS category is introduced to have 10% seats out of Open category. IITs are tasked to implement inclusion of EWS in two phases 5% EWS in 2019, 10% in 2020. Total seats on offer cross 16,000 in 2020.    
 
@@ -122,7 +131,7 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 ---- 
 
-## Links to documents in public domain    
+## Documents in public domain    
 
 [Kakodkar committeee report 2011](https://www.iiti.ac.in/administration_docs/Kakodkar%20Committee%20Report.pdf)   
 
