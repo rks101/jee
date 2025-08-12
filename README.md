@@ -109,7 +109,7 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially rela
 
 **2023**: Top-20 percentile criteria is added for qualification into IITs. In class XII, candidate should have at least 75% for Open, EWS, OBC-NCL category and 65% for SC, ST category (for five subjects including Physics, Chemistry, Maths and one language) or be in the top-20 percentile of the respective board of class XII examination. This top-20 percentile cut-off is category wise (Open, EWS, OBC-NCL, SC, ST, PWD). If board specific top-20 percentile cut-off is not available, CBSE board cut-offs are to be referenced with.    
 
-**2024** JoSAA conducts counselling in 5 rounds in 2024.    
+**2024** JoSAA conducts counselling in 5 rounds in 2024. After departure from a pen and paper model, instead of being selection-centric, entrance tests have been described as elimination-centric from a pool of too many applicants.     
 
 **2025** Again, in 2025, JoSAA conducts counselling in 6 rounds.     
 
