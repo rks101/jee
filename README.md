@@ -1,5 +1,5 @@
 # JEE
-These notes are compiled for Joint Entrance Examinations (JEE) for engineering at undergraduate level in India. Page was developed during 2021-23. Please connect to improve the page and general information on this page. For prevailing rules, trust only the Information Brochure and Business Rules.     
+These notes are compiled for Joint Entrance Examinations (JEE) for engineering programs at undergraduate level in India. This page was developed during 2021-23. Please connect to improve the page and general information on this page. For prevailing rules, trust only the Information Brochure and Business Rules published by the respective body.     
 
 For admissions into government funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
 
@@ -13,7 +13,7 @@ For admissions into government funded engineering institutions/universities, Joi
 
 [Joint Seat Allocation Authority (JoSAA)](https://josaa.nic.in/) was set up in 2015 by the Ministry of Education (erstwhile Ministry of Human Resources Development (MHRD)) to manage and regulate the joint seat allocation for admissions to more than 110 institutes. JoSAA includes 23 IITs, 31 NITs, IIEST Shibpur, 26 IIITs and 35+ Other-Government Funded Technical Institutes (Other-GFTIs). Institutes other than IITs are also referred as NIT+ system esp in JoSAA counselling.    
 
-Admissions to all the academic programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
+Admissions to the engineering undergraduate programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
 
 **Associated Bodies**   
 
@@ -65,7 +65,7 @@ To accommodate these numbers, over-and-above supernumerary seats were created. T
 
 The concerns were raised for seats lying vacant at IITs and for filling the maximum number of seats as per seats matrix announced. 
 
-Towards this, more number of rounds were added to joint seat allocation exercise - increased to 4 and then 6 from earlier 2 rounds. However, decent fresh seat allocations in the last round and candidates not joining the institute, does not leave options with IITs to fill those vacant seats.   
+Towards this, more number of rounds were added to joint seat allocation exercise - increased to 4 and then 6 from earlier 2 rounds. However, a large number of fresh seat allocations in the last round and candidates not joining the institute, does not leave options with IITs to fill those vacant seats.   
 
 ----
 
@@ -77,7 +77,7 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 ## Preparatory Course     
 
-JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially relaxing subject-wise and overall cut-off of marks obtained in JEE Advanced. Preparatory students spend one year at host IIT to make up Physics, Chemistry, Mathematics, English courses. Upon successful completion of preparatory course, these students join the allotted program at the respective IIT. The precise criteria or algorithm is not known on how preparatory seats are allotted. However, these preparatory seats appear from affirmative action category (SC/ST/Any PwD).     
+JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially relaxing subject-wise and overall cut-off of marks obtained in JEE Advanced. Preparatory students spend one year at host IIT to make up Physics, Chemistry, Mathematics, and English courses. Upon successful completion of preparatory course, these students join the allotted program at the respective IIT. The precise criteria or algorithm is not known on how preparatory seats are allotted. However, these preparatory seats appear from affirmative action category (SC/ST/Any PwD) when seats remain vacant.     
 
 ----
 
