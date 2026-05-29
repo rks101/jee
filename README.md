@@ -133,12 +133,25 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially rela
 
 ## Documents in public domain    
 
-[Kakodkar committeee report 2011](https://www.iiti.ac.in/administration_docs/Kakodkar%20Committee%20Report.pdf)   
+[Kakodkar Committee Report 2011](https://www.iiti.ac.in/administration_docs/Kakodkar%20Committee%20Report.pdf) - recommended country needs more IITs.    
 
 [Ramasamy Report on alternate exams 2010](docs/Ramasami-report-on-enggexam2010.pdf)    
 
-[Prof Milind Sohoni on selection procees, students, faculty and IITs](https://indianexpress.com/article/opinion/columns/iit-madras-director-is-mistaken-its-not-the-students-fault-8662961/)    
+[How IITs became heart of India's growth story over the past 70 years](https://timesofabetterindia.timesgroup.com/stories-of-a-changing-india/how-iits-became-heart-of-indias-growth-story-over-past-70-years)    
 
-[JEE Advanced exam page on wikipedia](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
+[Prof Milind Sohoni on selection process, students, faculty, and IITs](https://indianexpress.com/article/opinion/columns/iit-madras-director-is-mistaken-its-not-the-students-fault-8662961/)    
+
+[JEE Advanced exam page on Wikipedia](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
 
 [http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
+
+----
+
+## Fee vs Salary
+
+The annual undergraduate fee at the IITs used to be Rs 500 from the 1960s to 1998. [It’s been revised only 3 times](https://timesofabetterindia.timesgroup.com/stories-of-a-changing-india/how-iits-became-heart-of-indias-growth-story-over-past-70-years): in 1998, 2008, and most recently in 2016. In 2008, the fee was doubled from Rs 25,000 to Rs 50,000; it’s now Rs 2 lakh per annum, or more popularly, Rs 1 lakh per semester. The former director of IIT Delhi, V Ramgopal Rao, says, “Student fees make up only 7% of our revenue; 93% of IIT education is subsidized.”     
+
+
+[How has the dearness allowance changed over the years?](https://cleartax.in/s/dearness-allowance), While tuition fees have remained the same for IITs/NITs/IIITs/GFTIs. It was last revised by the erstwhile MHRD in 2015 to 1,00,000/- per semester, and the gross family income criteria were added to determine tuition fees for students.    
+
+---- 
