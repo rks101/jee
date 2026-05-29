@@ -1,30 +1,30 @@
 # JEE
-These notes are compiled for Joint Entrance Examinations (JEE) for engineering programs at undergraduate level in India. This page was developed during 2021-23. Please connect to improve the page and general information on this page. For prevailing rules, trust only the Information Brochure and Business Rules published by the respective body.     
+These notes are compiled for the Joint Entrance Examination (JEE) for undergraduate engineering programs in India. This page was developed during 2021-23. Please connect to improve the page and its general information. For prevailing rules, trust only the Information Brochure and Business Rules published by the respective body.     
 
-For admissions into government funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
+For admissions into government-funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
 
-* For admissions into NITs/IIITs/Other-GFTIs (called NIT+ System) for a bachelor degree or a bachelor-master dual degree programs - CSAB administers JEE Mains examination and National Testing Agency (NTA) conducts [JEE Mains exmination](https://jeemain.nta.nic.in/)
+* For admissions into NITs/IIITs/Other-GFTIs (called NIT+ System) for a bachelor's degree or a bachelor-master dual degree programs - CSAB administers JEE Mains examination, and National Testing Agency (NTA) conducts [JEE Mains examination](https://jeemain.nta.nic.in/)
 
-* For admissions into IITs for a bachelor degree or an integrated/dual degree programs - JAB administers [JEE-Advanced examinations](https://jeeadv.ac.in/). One of the seven zonal IITs is entrusted as organising institute every year to conduct prestigious JEE Advanced examinations.   
+* For admissions into IITs for a bachelor's degree or an integrated/dual degree program - JAB administers [JEE-Advanced examinations](https://jeeadv.ac.in/). One of the seven zonal IITs is entrusted with the role of "Organizing IIT" every year to conduct the prestigious JEE Advanced examinations.   
 
 ----
 
 ## JoSAA
 
-[Joint Seat Allocation Authority (JoSAA)](https://josaa.nic.in/) was set up in 2015 by the Ministry of Education (erstwhile Ministry of Human Resources Development (MHRD)) to manage and regulate the joint seat allocation for admissions to more than 110 institutes. JoSAA includes 23 IITs, 31 NITs, IIEST Shibpur, 26 IIITs and 35+ Other-Government Funded Technical Institutes (Other-GFTIs). Institutes other than IITs are also referred as NIT+ system esp in JoSAA counselling.    
+[Joint Seat Allocation Authority (JoSAA)](https://josaa.nic.in/) was set up in 2015 by the Ministry of Education (erstwhile Ministry of Human Resources Development (MHRD)) to manage and regulate the joint seat allocation for admissions to more than 110 institutes. JoSAA includes 23 IITs, IISc (from 2026), 31 NITs, IIEST Shibpur, 26 IIITs, and 46+ Other-Government Funded Technical Institutes (Other-GFTIs). Institutes other than IITs and IISc are also referred to as the NIT+ system, especially in JoSAA counseling.    
 
-Admissions to the engineering undergraduate programs offered by these institutes are made through this single platform in a month long exhaustive JoSAA counselling spread across six rounds for IITs and one or more other rounds for NIT+ system (NITs/IIITs/Other-GFTIs).   
+Admissions to the engineering undergraduate programs offered by these institutes are made through this single platform during a month-long exhaustive JoSAA counseling, spread across six rounds for IITs and, for the NIT+ system (NITs/IIITs/Other-GFTIs), one or more spot rounds.   
 
 **Associated Bodies**   
 
 **JAB** - [JEE Apex Board](https://www.education.gov.in/sites/upload_files/mhrd/files/jee_jab.pdf)    
 **CSAB** - [Central Seat Allocation Board](https://csab.nic.in/) and [CSAB-2023 board re-constitution](https://www.education.gov.in/sites/upload_files/mhrd/files/CSAB24.pdf)    
 **JoSAA** - [Joint Seat Allocation Authority](https://josaa.nic.in/)    
-**JIC** - Joint Implementation Committee (JIC) members are the Chairpersons and Vice-chairpersons of JEE Advanced in the IITs to implementing the JEE Advanced.    
+**JIC** - Joint Implementation Committee (JIC) members are the Chairpersons and Vice-chairpersons of the JEE Advanced at the IITs, who implement the JEE Advanced.    
 
-Role of NIC: National Informatics Center (NIC) Delhi provides ent-to-end technical services for conducting examinations for NTA and counselling web-services for JoSAA portal.   
+Role of NIC: The National Informatics Center (NIC), Delhi, provides end-to-end technical services for conducting examinations for NTA and counseling web services for the JoSAA portal.   
 
-Role of TCS: JEE Advanced has been a Computer-Based Test (CBT) since 2018, and has been organized with TCS-ion as the examination implementation partner.    
+Role of TCS: JEE Advanced has been a Computer-Based Test (CBT) since 2018 and has been organized with TCS iON as the examination implementation partner.    
 
 **Important links**    
 
@@ -47,25 +47,27 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/information-bulletin/](https:
 
 ## Affirmative Action    
 
-As per directives from the Government of India, candidates belonging to SC/ST/PWD/OBC-NCL/GEN-EWS category are included for affirmative action. OBC-NCL category was added in 1990. GEN-EWS category was added to JoSAA counselling in 2019.   
+As per directives from the Government of India, candidates belonging to the SC/ST/PWD/OBC-NCL/GEN-EWS category are included for affirmative action. The OBC-NCL category was added in 1990. The GEN-EWS category was added to JoSAA counseling in 2019.   
 
-Percentage of category wise seats for Affirmative Action (since 2019): 7.5% ST, 15% SC, 27% OBC-NCL, 10% GEN-EWS (out of Open candidates). Also, 5% PWD of total seats (verticle - across disciplines at an institute).    
+Percentage of category-wise seats for Affirmative Action (since 2019): 7.5% ST, 15% SC, 27% OBC-NCL, 10% GEN-EWS (out of Open candidates). Also, 5% PWD of total seats (vertical - across disciplines at an institute).    
 
 ----
 
 ## Gender Advancement   
 
-From 2018, IITs (and other CFTIs) have made collective efforts to include greater number of female candidates at the institutes for undegraduate programs. It is envisaged that IITs should admit 20% female candidates by 2020 for their undergraduate programs, thereby creating a larger pool of women in STEM education.     
+Since 2018, IITs (and other CFTIs) have made collective efforts to increase the number of female candidates in undergraduate programs. It was envisaged that IITs would admit 20% female candidates to their undergraduate programs by 2020, thereby creating a larger pool of women in STEM education.     
 
-To accommodate these numbers, over-and-above supernumerary seats were created. These seats should not be considered towards Affirmative Action, rather it's an over-and-above inclusion and diversity at institutes. Today, several IITs have a much larger pool of female population on the campus as compared to 2017 or before. Outcomes of the gender advancements will be visible in the society and industries from 2022 and later years to come.    
+To accommodate these numbers, supernumerary seats were created over and above, without impacting merit or the prospects of male candidates. These seats should not be considered towards Affirmative Action; rather, they are an over-and-above commitment to inclusion and diversity within institutions. Today, several IITs have a much larger female population on campus compared to 2017 or earlier. The outcomes of gender advancements will be visible in society and relevant industries from 2024 onward.    
 
 ----
 
 ## Vacant Seats   
 
-The concerns were raised for seats lying vacant at IITs and for filling the maximum number of seats as per seats matrix announced. 
+Concerns were raised about vacant seats at IITs and about filling the maximum number of seats as per the announced seat matrix. 
 
-Towards this, more number of rounds were added to joint seat allocation exercise - increased to 4 and then 6 from earlier 2 rounds. However, a large number of fresh seat allocations in the last round and candidates not joining the institute, does not leave options with IITs to fill those vacant seats.   
+Towards this, the number of rounds in the joint seat allocation exercise was increased from 2 to 4, then to 6. However, a large number of fresh seat allocations in the last round and candidates not joining the institute leave IITs without options to fill those vacant seats. This situation exists across IITs, and finally, more than a full IIT's worth of seats go vacant!    
+
+The number of PWD candidates may have decreased due to government and allied agencies' efforts through immunization programs and awareness campaigns spanning several decades.    
 
 ----
 
@@ -77,41 +79,41 @@ Towards this, more number of rounds were added to joint seat allocation exercise
 
 ## Preparatory Course     
 
-JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially relaxing subject-wise and overall cut-off of marks obtained in JEE Advanced. Preparatory students spend one year at host IIT to make up Physics, Chemistry, Mathematics, and English courses. Upon successful completion of preparatory course, these students join the allotted program at the respective IIT. The precise criteria or algorithm is not known on how preparatory seats are allotted. However, these preparatory seats appear from affirmative action category (SC/ST/Any PwD) when seats remain vacant.     
+JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially relaxing the subject-wise and overall cut-off of marks obtained in JEE Advanced. Preparatory students spend one year at the host IIT to make up Physics, Chemistry, Mathematics, and English courses. Upon successful completion of the preparatory course, these students join the allotted program at the respective IIT. The precise criteria or algorithm is not known on how preparatory seats are allotted. However, these preparatory seats appear from the affirmative action category (SC/ST/Any PwD) when seats remain vacant.     
 
 ----
 
-## IIT-JEE timeline    
+## IIT-JEE timeline over the years    
 
-**1960 –to- 1989**: IIT-JEE examination used to have three question papers - one each in Physics, Chemistry, and Mathematics (PCM) of 3 hours each. The pattern of examination was subjective only conducted on three separate days. Initially it was known as Common Entrance Exam (CEE).    
+**1961 –to- 1989**: IIT-JEE examination used to have three question papers - one each in Physics, Chemistry, and Mathematics (PCM) of 3 hours each. The examination pattern was subjective and was conducted over three separate days. Initially, it was known as the Common Entrance Exam (CEE).    
 
-**1990 -to- 2003**: IIT-JEE had two stages called - JEE Screening and JEE Mains. JEE Screening exam was an objective (MCQ) paper, a pre-requisite to appear in JEE Mains exam which was subjective papers as earlier. So far, from 1960s to 2003, it was a pen-paper based examination to enter into IITs.   
+**1990 -to- 2003**: IIT-JEE had two stages: JEE Screening and JEE Mains. The JEE Screening exam was an objective (MCQ) paper, a prerequisite for appearing in JEE Mains, which was a subjective paper as earlier. So far, from the 1960s to 2003, the examination to enter IITs was pen-and-paper-based.   
 
-**200x**: IIT-JEE adopted OMR sheet for answers still continuing with printed papers.    
+**200x**: IIT-JEE adopted OMR sheets for answers while continuing with printed papers.    
 
-**2006 -to- 2012**: IIT-JEE exam was again a single stage but objective exam of 2 papers (back-to-back on the same day) each having PCM questions over the duration of 3 hours each. Candidate should have 60% agreegate in the qualifying exam class XII, and for SC/ST/PwD it was 55%.   
+**2006 -to- 2012**: IIT-JEE exam was again a single-stage, objective exam of 2 papers (back-to-back on the same day), each with Physics, Chemistry, and Mathematics (PCM) questions, lasting 3 hours each. The candidate should have 60% aggregate in the qualifying exam (class XII), and for SC/ST/PwD, it was 55%.   
 
-**2012**: JEE Advanced registrations crossed 5 lac mark, in 2010 and 2011, this number was above 4 lac.    
+**2012**: JEE Advanced registrations crossed the 5 lac mark; in 2010 and 2011, this number was above 4 lac.    
 
-**2013**: IIT-JEE again became two stage examination - JEE Mains (for NIT+ system and qualifier for JEE Advanced) and JEE Advanced (for admission into IITs only). Only a certain threshold number of candidates from JEE Mains are allowed to register for JEE Advanced examination. A national level engineering entrance exam AIEEE started in 2002 for NITs and other govt engineering colleges, is now came to known as JEE Mains.    
+**2013**: IIT-JEE again became a two-stage examination - JEE Mains (for NIT+ system and qualifier for JEE Advanced) and JEE Advanced (for admission into IITs only). Only a certain threshold number of candidates from JEE Mains are allowed to register for the JEE Advanced examination. A national-level engineering entrance exam, AIEEE, started in 2002 for NITs and other government engineering colleges, has now come to be known as JEE Mains.    
 
-**2013 -to- 2025**: IIT-JEE exam remains a two-stage exam - JEE Mains and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2025) is an objective exam (MCQ) and a pre-requisite to appear in JEE Advanced exam. JEE Advanced exam has a complex multiple-pattern questions (well suited for CBT), objective questions, interger/real number answer type questions recently added, 18 questions each in PCM are multiple-correct-answers-type questions. JEE Advanced is conducted on a single day in 2 papers back-to-back, 9 am to 12 pm and 2 pm to 5 pm.    
+**2013 -to- 2026**: The IIT-JEE exam remains a two-stage exam: JEE Main and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2026) is an objective exam (MCQ) and a prerequisite to appear in the JEE Advanced exam. The JEE Advanced exam has complex multiple-choice questions (well-suited for CBT), objective questions, integer/real-number-answer-type questions, and, recently added, 18 or 17 PCM questions each with multiple correct answers. JEE Advanced is conducted on a single day in 2 papers back-to-back, 9 am to 12 pm and 2 pm to 5 pm.    
 
-**2015**: JoSAA come into existence for joint counselling of IITs and NIT+ system. Total seats on offer in JEE Advanced cross 10,000.     
+**2015**: JoSAA came into existence for the joint counseling of IITs and NIT+ system. The total number of seats on offer in JEE Advanced exceeds 10,000.     
 
 **2017**: Weightage of class 12th marks in calculating ranks of IIT JEE Mains removed.    
 
-**2018**: JEE Advanced exam became Computer-Based Test (CBT) being conducted online only with TCS-ion as examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT. The compelling reasons behind conducting CBT are: to reduce the prospectus of paper leak and printing errors, to make examination evaluation easier (against an answer key) and swift as the number of candidates have grown, to make overall examination logistics simpler for organizing IITs (since this may not be their core business to conduct examinations at such scale). IITs are tasked to induct 20% female students in three years, e.g. 14% in 2018, 17% in 2019 and 20% in 2020.    
+**2018**: The JEE Advanced exam became a Computer-Based Test (CBT), conducted online only, with TCS-ion as the examination implementation partner. This was a major shift from OMR-based answer sheets to online CBT. The compelling reasons behind conducting CBT are: to reduce the prospect of paper leak and printing errors, to make examination evaluation easier (against an answer key) and swift, as the number of candidates has grown, to make overall examination logistics simpler for organizing IITs (since this may not be their core business to conduct examinations at such a scale). In 2018, IITs are tasked with inducting 20% female students over three years, i.e., 14% in 2018, 17% in 2019, and 20% in 2020.    
 
-**2019**: GEN-EWS category is introduced to have 10% seats out of Open category. IITs are tasked to implement inclusion of EWS in two phases 5% EWS in 2019, 10% in 2020. Total seats on offer cross 16,000 in 2020.    
+**2019**: The GEN-EWS category is introduced, with 10% of seats reserved from the Open category. IITs are tasked with implementing inclusion of EWS in two phases: 5% in 2019 and 10% in 2020. The total number of seats on offer crossed 16,000 in 2020.    
 
-**2020-2021** During Covid-19 years, JEE Advanced is conducted late in the year and admissions to IITs are delayed than July-August. From 2020, JoSAA counselling is being conducted online, reporting is online and candidates need not travel in-person to the nearest IITs as earlier. Only PwD candidates need to report once to nearest IITs for disability ascertained as temporary in nature. Thus, all 23 IITs became reporting centers (RC).    
+**2020-2021** During the COVID-19 period, JEE Advanced was held late in the year, and admissions to IITs were delayed until November, compared to the usual July-August period. Since 2020, JoSAA counseling has been conducted online, and reporting is also online; candidates no longer need to travel in person to the nearest IITs as earlier. Only PwD candidates need to report once to the nearest IITs for disability ascertained as temporary in nature. Thus, all 23 IITs became reporting centers (RC) from 2020.    
 
-**2023**: Top-20 percentile criteria is added for qualification into IITs. In class XII, candidate should have at least 75% for Open, EWS, OBC-NCL category and 65% for SC, ST category (for five subjects including Physics, Chemistry, Maths and one language) or be in the top-20 percentile of the respective board of class XII examination. This top-20 percentile cut-off is category wise (Open, EWS, OBC-NCL, SC, ST, PWD). If board specific top-20 percentile cut-off is not available, CBSE board cut-offs are to be referenced with.    
+**2023**: The top-20 percentile criteria are added for qualification into IITs. In the qualifying examination (the class XII), candidates should have at least 75% for the Open, EWS, OBC-NCL categories and 65% for the SC, ST categories (for five subjects, including Physics, Chemistry, Maths, and one language) or be in the category-wise (Open, EWS, OBC-NCL, SC, ST, PWD) top-20th percentile of the respective board of class XII examination. If a board-specific top-20 percentile cut-off is not available due to results not being declared, CBSE board cut-offs are to be referenced.    
 
-**2024** JoSAA conducts counselling in 5 rounds in 2024. After departure from a pen and paper model, instead of being selection-centric, entrance tests have been described as elimination-centric from a pool of too many applicants.     
+**2024** JoSAA conducts counseling in 5 rounds. After departing from a pen-and-paper model, entrance tests have been described as elimination-centric, rather than selection-centric, from a pool of too many applicants.     
 
-**2025** Again, in 2025, JoSAA conducts counselling in 6 rounds.     
+**2025-26** Again, in 2025, JoSAA conducts counseling in 6 rounds.     
 
 ---- 
 
@@ -121,13 +123,13 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substancially rela
 * Gross Enrolment Ratio (GER) for the population in the age group 18-23 years being 27.1 (male: 26.9; female: 27.3). - Source: UGC    
 
 
-* Enrollment in higher education increases to 4.14 crore, crossing the 4 crore mark for first time. - Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
-* As per 2011 population projections for 18-23 years age group, GER has increased to 27.3 - Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
-* The total number of Universities / University like institutions registered is 1,113, Colleges 43,796 and Standalone Institutions 11,296. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
-* The total number of faculty/teachers are 15,51,070 of which about 57.1% are male and 42.9% are female. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)    
+* Enrollment in higher education increases to 4.14 crore, crossing the 4 crore mark for the first time. - Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
+* As per 2011 population projections for the 18-23 years age group, GER has increased to 27.3 - Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
+* The total number of Universities / university-like institutions registered is 1,113, Colleges 43,796, and Standalone Institutions 11,296. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)   
+* The total number of faculty/teachers are 15,51,070, of which about 57.1% are male, and 42.9% are female. Source [AISHE survey 2020-2021](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1894517)    
 
 
-* In 2002, the total number of seats at 7 IITs were **3357** (with IIT Roorkee included from 2001). In 2022, the total number of seats at 23 IITs were **16598**.    
+* In 2002, the total number of seats at 7 IITs was **3357** (with IIT Roorkee included from 2001). In 2015, the total number of seats at 16 IITs was **10,000**. In 2022, the total number of seats at 23 IITs was **16598**.    
 
 ---- 
 
