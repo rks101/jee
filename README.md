@@ -40,7 +40,7 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/information-bulletin/](https:
 
 [Previous Year's Opening Ranks and Closing Ranks (OR-CR)](https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx) for academic programs at Participating Institutes.    
 
-[Top-20 percentile cut-off from various boards](https://josaa.nic.in/top-20-percentile/) suggests fierce competition in certain class XII state boards.     
+[Top-20 percentile cut-off from various boards](https://josaa.nic.in/top-20-percentile/) appears to suggest fierce competition in certain class XII state boards.     
 
 
 ----
