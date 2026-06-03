@@ -1,5 +1,5 @@
 # JEE
-These notes are compiled for the Joint Entrance Examination (JEE) for undergraduate engineering programs in India. This page was developed during 2021-23. Please connect to improve the page and its general information. For prevailing rules, trust only the Information Brochure and Business Rules published by the respective body.     
+These notes are compiled for the Joint Entrance Examination (JEE) for undergraduate engineering programs in India. Initially, this page was developed during 2021-23. Please connect to improve the page and its general information. For prevailing rules, trust only the Information Brochure and Business Rules published by the respective body.     
 
 For admissions into government-funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
 
@@ -113,7 +113,9 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 **2024** JoSAA conducts counseling in 5 rounds. After departing from a pen-and-paper model, entrance tests have been described as elimination-centric, rather than selection-centric, from a pool of too many applicants.     
 
-**2025-26** Again, in 2025, JoSAA conducts counseling in 6 rounds.     
+**2025** Again, in 2025, JoSAA conducts counseling in 6 rounds.     
+
+**2026** In 2025, JoSAA to conduct counseling in 5 rounds, with the first round being longer than usual.     
 
 ---- 
 
@@ -151,7 +153,7 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 ## Fee vs Salary
 
-The annual undergraduate fee at the IITs used to be Rs 500 from the 1960s to 1998. [It’s been revised only 3 times](https://timesofabetterindia.timesgroup.com/stories-of-a-changing-india/how-iits-became-heart-of-indias-growth-story-over-past-70-years): in 1998, 2008, and most recently in 2016. In 2008, the fee was doubled from Rs 25,000 to Rs 50,000; it’s now Rs 2 lakh per annum, or more popularly, Rs 1 lakh per semester. The former director of IIT Delhi, V Ramgopal Rao, says, “Student fees make up only 7% of our revenue; 93% of IIT education is subsidized.”     
+The annual undergraduate fee at the IITs used to be Rs 500 from the 1960s to 1998. [It’s been revised only 3 times](https://timesofabetterindia.timesgroup.com/stories-of-a-changing-india/how-iits-became-heart-of-indias-growth-story-over-past-70-years): in 1998, 2008, and most recently in 2015. In 2008, the fee was doubled from Rs 25,000 to Rs 50,000; it’s now Rs 2 lakh per annum, or more popularly, Rs 1 lakh per semester. The former director of IIT Delhi, V Ramgopal Rao, says, “Student fees make up only 7% of our revenue; 93% of IIT education is subsidized.”     
 
 
 [How has the dearness allowance changed over the years?](https://cleartax.in/s/dearness-allowance), While tuition fees have remained the same for IITs/NITs/IIITs/GFTIs. It was last revised by the erstwhile MHRD in 2015 to 1,00,000/- per semester, and the gross family income criteria were added to determine tuition fees for students.    
