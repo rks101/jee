@@ -159,3 +159,7 @@ The annual undergraduate fee at the IITs used to be Rs 500 from the 1960s to 199
 [How has the dearness allowance changed over the years?](https://cleartax.in/s/dearness-allowance), While tuition fees have remained the same for IITs/NITs/IIITs/GFTIs. It was last revised by the erstwhile MHRD in 2015 to 1,00,000/- per semester, and the gross family income criteria were added to determine tuition fees for students.    
 
 ---- 
+
+## Data breaches 
+
+[IITR Reply on X in 2026](https://x.com/iitroorkee/status/2062822716047253636)    
