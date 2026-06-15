@@ -99,7 +99,9 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 **2013 -to- 2026**: The IIT-JEE exam remains a two-stage exam: JEE Main and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2026) is an objective exam (MCQ) and a prerequisite to appear in the JEE Advanced exam. The JEE Advanced exam has complex multiple-choice questions (well-suited for CBT), objective questions, integer/real-number-answer-type questions, and, recently added, 18 or 17 PCM questions each with multiple correct answers. JEE Advanced is conducted on a single day in 2 papers back-to-back, 9 am to 12 pm and 2 pm to 5 pm.    
 
-**2015**: JoSAA came into existence for the joint counseling of IITs and NIT+ system. The total number of seats on offer in JEE Advanced exceeds 10,000.     
+**2015**: JoSAA came into existence for the joint counseling of IITs and NIT+ system. The total number of seats on offer in JEE Advanced exceeds 10,000. There were 10572 seats available to be precise across 23 IITs. Two IITs, IIT Kaharagpur (1341) and IIT (BHU) Varanasi (1090) had over 1000 seats each. Category-wise top-20 percentile or 75% (70% for affirmative action) criteria in 10+2 can be traced back to 2015. [2015 Joint Implementation Committee report]()      
+
+**2016**: [2016 Joint Implementation Committee report]()      
 
 **2017**: Weightage of class 12th marks in calculating ranks of IIT JEE Mains removed.    
 
@@ -113,9 +115,9 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 **2024** JoSAA conducts counseling in 5 rounds. After departing from a pen-and-paper model, entrance tests have been described as elimination-centric, rather than selection-centric, from a pool of too many applicants.     
 
-**2025** Again, in 2025, JoSAA conducts counseling in 6 rounds.     
+**2025** JoSAA completes 10 years of joint counseling for over 120+ institutes acoss the country. Again, in 2025, JoSAA conducts counseling in 6 rounds.     
 
-**2026** In 2025, JoSAA to conduct counseling in 5 rounds, with the first round being longer than usual.     
+**2026** In 2025, JoSAA to conduct counseling in 5 rounds, with the first round being longer than usual. XII eligibility criteria and top-20 percentile      
 
 ---- 
 
@@ -163,3 +165,13 @@ The annual undergraduate fee at the IITs used to be Rs 500 from the 1960s to 199
 ## Data breaches 
 
 [IITR Reply on X in 2026](https://x.com/iitroorkee/status/2062822716047253636)    
+
+---- 
+
+## Unfortunate Incidents   
+
+There have been some unfortunate incidents where [IIT JEE and NEET aspirants have taken their life](https://pmc.ncbi.nlm.nih.gov/articles/PMC12256035/), [demographic study link 2](https://www.cureus.com/articles/331046-suicide-trends-among-indian-institutes-of-technology-joint-entrance-examination-iit-jee-and-national-eligibility-cum-entrance-test-neet-aspirants-a-comparative-study-of-demographic-and-situational-factors#!/), [link 3](https://www.aljazeera.com/news/2026/3/11/the-other-side-of-iits-student-suicides-haunt-indias-top-tech-schools), [link 4](https://timesofindia.indiatimes.com/india/65-student-suicides-at-iits-in-5-yrs-alumni-group-calls-for-accountability/articleshow/127054283.cms).     
+
+Ministry of Education (MoE) issued guidelines in 2023 called [UMMEED](https://sansad.in/getFile/annex/262/AU327.pdf?source=pqars) (Understand, Motivate, Manage, Empathise, Empower, Develop). [On guidelines](https://english.mathrubhumi.com/education/news/set-up-wellness-teams-identify-students-at-risk-moe-draft-guidelines-on-suicide-prevention-abfab9b5)    
+
+----
