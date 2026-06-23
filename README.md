@@ -151,6 +151,8 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 [http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
 
+[IITs ask students not to reveal JEE rank for campus placements citing uniformity and to prevent discrimination by recruiters](https://www.indiatoday.in/education-today/news/story/iits-ask-students-not-to-reveal-jee-rank-gate-marks-for-campus-placements-techies-job-offers-2931504-2026-06-22)     
+
 ----
 
 ## Fee vs Salary
