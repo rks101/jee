@@ -99,9 +99,9 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 **2013 -to- 2026**: The IIT-JEE exam remains a two-stage exam: JEE Main and JEE Advanced. JEE Mains (conducted by CBSE from 2013-2018, and later by NTA from 2019-2026) is an objective exam (MCQ) and a prerequisite to appear in the JEE Advanced exam. The JEE Advanced exam has complex multiple-choice questions (well-suited for CBT), objective questions, integer/real-number-answer-type questions, and, recently added, 18 or 17 PCM questions each with multiple correct answers. JEE Advanced is conducted on a single day in 2 papers back-to-back, 9 am to 12 pm and 2 pm to 5 pm.    
 
-**2015**: JoSAA came into existence for the joint counseling of IITs and NIT+ system. The total number of seats on offer in JEE Advanced exceeds 10,000. There were 10572 seats available to be precise across 23 IITs. Two IITs, IIT Kaharagpur (1341) and IIT (BHU) Varanasi (1090) had over 1000 seats each. Category-wise top-20 percentile or 75% (70% for affirmative action) criteria in 10+2 can be traced back to 2015. [2015 Joint Implementation Committee report]()      
+**2015**: JoSAA came into existence for the joint counseling of IITs and NIT+ system. The total number of seats on offer in JEE Advanced exceeds 10,000. There were 10572 seats available to be precise across 23 IITs. Two IITs, IIT Kaharagpur (1341) and IIT (BHU) Varanasi (1090) had over 1000 seats each. Category-wise top-20 percentile or 75% (70% for affirmative action) criteria in 10+2 can be traced back to 2015. [2015 JEE/JIC report](https://jeeadv.ac.in/reports.html)      
 
-**2016**: [2016 Joint Implementation Committee report]()      
+**2016**: [2016 JEE/JIC report](https://jeeadv.ac.in/reports.html)      
 
 **2017**: Weightage of class 12th marks in calculating ranks of IIT JEE Mains removed.    
 
@@ -148,6 +148,8 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 [Prof Milind Sohoni on selection process, students, faculty, and IITs](https://indianexpress.com/article/opinion/columns/iit-madras-director-is-mistaken-its-not-the-students-fault-8662961/)    
 
 [JEE Advanced exam page on Wikipedia](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
+
+[JEE Advanced reports](https://jeeadv.ac.in/reports.html)     
 
 [http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
 
