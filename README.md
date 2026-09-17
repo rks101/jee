@@ -85,6 +85,9 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 ## IIT-JEE timeline over the years    
 
+The IIT story began in May 1950 when the first institution was establish at Kharagpur, West Bengal, at the site of the former Hijli Detention Camp. That site is still visible at campus main building pictures. IIT Kharagpur (IIT KGP) was formally inaugurated as an IIT on August 18, 1951. Subsequently, in the next 10 years, four more IITs came up. IIT Bombay was established in 1958, IIT Madras and IIT Kanpur in 1959, and IIT Delhi in 1961. IIT Guwahati came up in 1994.   
+
+
 **1961 –to- 1989**: IIT-JEE examination used to have three question papers - one each in Physics, Chemistry, and Mathematics (PCM) of 3 hours each. The examination pattern was subjective and was conducted over three separate days. Initially, it was known as the Common Entrance Exam (CEE).    
 
 **1990 -to- 2003**: IIT-JEE had two stages: JEE Screening and JEE Mains. The JEE Screening exam was an objective (MCQ) paper, a prerequisite for appearing in JEE Mains, which was a subjective paper as earlier. So far, from the 1960s to 2003, the examination to enter IITs was pen-and-paper-based.   
@@ -154,6 +157,8 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 [http://www.academics-india.com/iit.htm](http://www.academics-india.com/iit.htm)    
 
 [IITs ask students not to reveal JEE rank for campus placements citing uniformity and to prevent discrimination by recruiters](https://www.indiatoday.in/education-today/news/story/iits-ask-students-not-to-reveal-jee-rank-gate-marks-for-campus-placements-techies-job-offers-2931504-2026-06-22)     
+
+[Old IITs vs new IITs](https://education.economictimes.indiatimes.com/news/higher-education/old-iits-vs-new-iits-does-legacy-still-win/134281277)     
 
 ----
 
