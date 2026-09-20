@@ -1,4 +1,24 @@
-# JEE
+# IITs
+
+This page may have errors or omissions due to lack of resources. Kindly share errors or issues with us to improve this page.    
+
+* IITs
+  * [JEE](#jee)
+  * [JoSAA](#josaa)
+  * [Affirmative Action](#affirmative-action)
+  * [Gender Advancement](#gender-advancement)
+  * [Vacant Seats](#vacant-seats)
+  * [Cut-off Marks](#cut-off-marks)
+  * [Preparatory Course](#preparatory-course)
+  * [IIT JEE timeline over the years](#iit-jee-timeline-over-the-years)
+  * [Random Stats](#random-stats)
+  * [Documents in public domain](#documents-in-public-domain)
+  * [Fee vs Salary](#fee-vs-salary)
+  * [Data Breaches](#data-breaches)
+  * [Unfortunate Incidents](#unfortunate-incidents)
+
+
+## JEE
 These notes are compiled for the Joint Entrance Examination (JEE) for undergraduate engineering programs in India. Initially, this page was developed during 2021-23. Please connect to improve the page and its general information. For prevailing rules, trust only the Information Brochure and Business Rules published by the respective body.     
 
 For admissions into government-funded engineering institutions/universities, Joint Entrance Examinations (JEE) are conducted.   
@@ -47,7 +67,7 @@ Business Rule (BR) of JoSAA: [https://josaa.nic.in/information-bulletin/](https:
 
 ## Affirmative Action    
 
-As per directives from the Government of India, candidates belonging to the SC/ST/PWD/OBC-NCL/GEN-EWS category are included for affirmative action. The OBC-NCL category was added in 1990. The GEN-EWS category was added to JoSAA counseling in 2019.   
+As per directives from the Government of India, candidates belonging to the SC/ST/PWD/OBC-NCL/GEN-EWS category are included for affirmative action. The OBC-NCL (Non-Creamy Layer) category was added in 1990. The GEN-EWS (Economically Weaker Section) category was added to JoSAA counseling in 2019.   
 
 Percentage of category-wise seats for Affirmative Action (since 2019): 7.5% ST, 15% SC, 27% OBC-NCL, 10% GEN-EWS (out of Open candidates). Also, 5% PWD of total seats (vertical - across disciplines at an institute).    
 
@@ -57,7 +77,7 @@ Percentage of category-wise seats for Affirmative Action (since 2019): 7.5% ST, 
 
 Since 2018, IITs (and other CFTIs) have made collective efforts to increase the number of female candidates in undergraduate programs. It was envisaged that IITs would admit 20% female candidates to their undergraduate programs by 2020, thereby creating a larger pool of women in STEM education.     
 
-To accommodate these numbers, supernumerary seats were created over and above, without impacting merit or the prospects of male candidates. These seats should not be considered towards Affirmative Action; rather, they are an over-and-above commitment to inclusion and diversity within institutions. Today, several IITs have a much larger female population on campus compared to 2017 or earlier. The outcomes of gender advancements will be visible in society and relevant industries from 2024 onward.    
+To accommodate these numbers, supernumerary seats were created over and above, without impacting merit or the prospects of male candidates. Supernumerary female seats should not be considered towards gender-wise Affirmative Action; rather, they are an over-and-above commitment to inclusion and diversity within institutions. Today, several IITs have a much larger female population on campus compared to 2017 or earlier. Anyone associated with hostels at the campus, can describe the difference after female supernumerary seats were added. The outcomes of gender advancements is visible in the society and relevant industries from 2024 onward.    
 
 ----
 
@@ -71,7 +91,7 @@ The number of PWD candidates may have decreased due to government and allied age
 
 ----
 
-## Cut-off marks   
+## Cut-off Marks   
 
 [JEE Advanced cut-off in 2022](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)    
 
@@ -83,7 +103,7 @@ JoSAA allots preparatory seats (Prep) to fill vacant seats by substantially rela
 
 ----
 
-## IIT-JEE timeline over the years    
+## IIT JEE timeline over the years    
 
 The IIT story began in May 1950 when the first institution was establish at Kharagpur, West Bengal, at the site of the former Hijli Detention Camp. That site is still visible at campus main building pictures. IIT Kharagpur (IIT KGP) was formally inaugurated as an IIT on August 18, 1951. Subsequently, in the next 10 years, four more IITs came up. IIT Bombay was established in 1958, IIT Madras and IIT Kanpur in 1959, and IIT Delhi in 1961. IIT Guwahati came up in 1994.   
 
@@ -158,6 +178,8 @@ The IIT story began in May 1950 when the first institution was establish at Khar
 
 [IITs ask students not to reveal JEE rank for campus placements citing uniformity and to prevent discrimination by recruiters](https://www.indiatoday.in/education-today/news/story/iits-ask-students-not-to-reveal-jee-rank-gate-marks-for-campus-placements-techies-job-offers-2931504-2026-06-22)     
 
+[Placements over the five years and the denominator problem](https://education.economictimes.indiatimes.com/news/higher-education/after-the-placement-boom-what-five-years-of-engineering-data-reveal-about-indias-top-institutes/134244877). IITs work on Frontier AI models and cutting-age research and technologies. IITs do receive substantial funds from the consolidated funds of India. When it comes to campus placement data, they have "the denominator problem" (out of how many in total). Due to the (un)registered students for placements and different cycles used for counting the numbers (Academic Year/Financial Year/Placement season/a 4-digit year vs four-two year nomenclature), there are different numbers. In the recent past, citing mental health challenges, discrimination, and orders from clouds, placement numbers may not be available on their own websites.     
+
 [Old IITs vs new IITs](https://education.economictimes.indiatimes.com/news/higher-education/old-iits-vs-new-iits-does-legacy-still-win/134281277)     
 
 ----
@@ -171,7 +193,7 @@ The annual undergraduate fee at the IITs used to be Rs 500 from the 1960s to 199
 
 ---- 
 
-## Data breaches 
+## Data Breaches 
 
 [IITR Reply on X in 2026](https://x.com/iitroorkee/status/2062822716047253636)    
 
